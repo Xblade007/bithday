@@ -1,2 +1,0 @@
-Hello,
-This is another file from Github to test the cmdlets.
